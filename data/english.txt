@@ -1,0 +1,299 @@
+Hello, how are you?|Привет, как ты?|Приветствия|0
+Good morning!|Доброе утро!|Приветствия|0
+Good evening!|Добрый вечер!|Приветствия|0
+Nice to meet you.|Приятно познакомиться.|Приветствия|0
+How's it going?|Как дела?|Приветствия|0
+Long time no see!|Давно не виделись!|Приветствия|0
+What's your name?|Как тебя зовут?|Приветствия|0
+My name is Alex.|Меня зовут Алекс.|Приветствия|0
+Where are you from?|Откуда вы?|Приветствия|0
+I'm from Russia.|Я из России.|Приветствия|0
+How old are you?|Сколько тебе лет?|Приветствия|0
+I'm twenty-five.|Мне двадцать пять.|Приветствия|0
+What do you do?|Чем вы занимаетесь?|Приветствия|0
+I work as a teacher.|Я работаю учителем.|Приветствия|0
+Do you speak English?|Вы говорите по-английски?|Приветствия|0
+I speak a little English.|Я немного говорю по-английски.|Приветствия|0
+I don't understand.|Я не понимаю.|Приветствия|0
+Could you repeat that?|Не могли бы вы повторить?|Приветствия|0
+Please speak slower.|Пожалуйста, говорите медленнее.|Приветствия|0
+Thank you very much!|Большое спасибо!|Приветствия|0
+Where is the check-in desk?|Где стойка регистрации?|Аэропорт|0
+Here is my passport.|Вот мой паспорт.|Аэропорт|0
+I have one suitcase.|У меня один чемодан.|Аэропорт|0
+Can I have a window seat?|Можно место у окна?|Аэропорт|0
+What is the gate number?|Какой номер выхода?|Аэропорт|0
+Is the flight delayed?|Рейс задержан?|Аэропорт|0
+Where is the baggage claim?|Где выдача багажа?|Аэропорт|0
+My luggage is missing.|Мой багаж потерялся.|Аэропорт|0
+I'm here on vacation.|Я здесь в отпуске.|Аэропорт|0
+I'm here on business.|Я здесь по делам.|Аэропорт|0
+I'll stay for one week.|Я останусь на неделю.|Аэропорт|0
+I'm traveling alone.|Я путешествую один.|Аэропорт|0
+I'm traveling with my family.|Я путешествую с семьёй.|Аэропорт|0
+Nothing to declare.|Нечего декларировать.|Аэропорт|0
+Where can I get a taxi?|Где можно взять такси?|Аэропорт|0
+How much is a taxi to the city?|Сколько стоит такси до города?|Аэропорт|0
+Take me to this address.|Отвезите меня по этому адресу.|Аэропорт|0
+Please stop here.|Остановите здесь, пожалуйста.|Аэропорт|0
+Keep the change.|Сдачи не надо.|Аэропорт|0
+Have a nice day!|Хорошего дня!|Аэропорт|0
+I have a reservation.|У меня есть бронь.|Отель|0
+Do you have a room available?|У вас есть свободный номер?|Отель|0
+How much is it per night?|Сколько стоит за ночь?|Отель|0
+Is breakfast included?|Завтрак включён?|Отель|0
+What time is check-in?|Во сколько заезд?|Отель|0
+What time is check-out?|Во сколько выезд?|Отель|0
+Can I have a wake-up call?|Можно звонок-будильник?|Отель|0
+The key doesn't work.|Ключ не работает.|Отель|0
+The room is too noisy.|В номере слишком шумно.|Отель|0
+The air conditioner is broken.|Кондиционер сломан.|Отель|0
+Could I get extra towels?|Можно дополнительно полотенца?|Отель|0
+Is there free Wi-Fi?|Есть бесплатный Wi-Fi?|Отель|0
+What's the password?|Какой пароль?|Отель|0
+Where is the elevator?|Где лифт?|Отель|0
+Is there a laundry service?|Есть услуга стирки?|Отель|0
+I'd like to check out.|Я хотел бы выехать.|Отель|0
+Can I leave my bags here?|Можно оставить сумки здесь?|Отель|0
+The bill is incorrect.|Счёт неверный.|Отель|0
+I need a receipt.|Мне нужен чек.|Отель|0
+Thank you for your help.|Спасибо за помощь.|Отель|0
+A table for two, please.|Столик на двоих, пожалуйста.|Ресторан|0
+Can I see the menu?|Можно меню?|Ресторан|0
+What do you recommend?|Что вы посоветуете?|Ресторан|0
+I'll have this one.|Я буду вот это.|Ресторан|0
+I'd like a cup of coffee.|Я хотел бы чашку кофе.|Ресторан|0
+No sugar, please.|Без сахара, пожалуйста.|Ресторан|0
+With milk, please.|С молоком, пожалуйста.|Ресторан|0
+I'm allergic to nuts.|У меня аллергия на орехи.|Ресторан|0
+I don't eat meat.|Я не ем мясо.|Ресторан|0
+Is this spicy?|Это острое?|Ресторан|0
+Can I get this to go?|Можно это с собой?|Ресторан|0
+Could we have the bill?|Можно счёт?|Ресторан|0
+Can we split the bill?|Можно разделить счёт?|Ресторан|0
+Do you accept cards?|Вы принимаете карты?|Ресторан|0
+The food is delicious.|Еда очень вкусная.|Ресторан|0
+I'm still waiting for my order.|Я всё ещё жду свой заказ.|Ресторан|0
+This is not what I ordered.|Это не то, что я заказывал.|Ресторан|0
+Could I have some water?|Можно воды?|Ресторан|0
+Where is the restroom?|Где туалет?|Ресторан|0
+A glass of red wine, please.|Бокал красного вина, пожалуйста.|Ресторан|0
+I'm full, thank you.|Я сыт, спасибо.|Ресторан|0
+It was great, thank you.|Было отлично, спасибо.|Ресторан|0
+Could I have a doggy bag?|Можно упаковать с собой?|Ресторан|0
+Is service included?|Обслуживание включено?|Ресторан|0
+Keep the change.|Сдачи не надо.|Ресторан|0
+How much does it cost?|Сколько это стоит?|Покупки|0
+That's too expensive.|Это слишком дорого.|Покупки|0
+Can you give me a discount?|Можете дать скидку?|Покупки|0
+Do you have this in another size?|Есть это другого размера?|Покупки|0
+Do you have this in another color?|Есть это другого цвета?|Покупки|0
+Can I try it on?|Можно примерить?|Покупки|0
+It fits well.|Хорошо сидит.|Покупки|0
+It's too tight.|Слишком узко.|Покупки|0
+It's too loose.|Слишком свободно.|Покупки|0
+I'll take it.|Я беру это.|Покупки|0
+I'm just looking, thanks.|Я просто смотрю, спасибо.|Покупки|0
+Where is the fitting room?|Где примерочная?|Покупки|0
+Do you accept cash?|Вы принимаете наличные?|Покупки|0
+Can I pay by card?|Можно оплатить картой?|Покупки|0
+Could I have a bag?|Можно пакет?|Покупки|0
+Where can I find this?|Где я могу это найти?|Покупки|0
+Is there a pharmacy nearby?|Есть аптека поблизости?|Покупки|0
+I need sunscreen.|Мне нужен солнцезащитный крем.|Покупки|0
+Do you have a smaller size?|У вас есть размер меньше?|Покупки|0
+Can I get a refund?|Можно вернуть деньги?|Покупки|0
+I'd like to exchange this.|Я хотел бы обменять это.|Покупки|0
+Is there a sale today?|Сегодня есть распродажа?|Покупки|0
+That's all, thank you.|Это всё, спасибо.|Покупки|0
+Where is the cashier?|Где касса?|Покупки|0
+Can I have the receipt?|Можно чек?|Покупки|0
+Where is the metro station?|Где станция метро?|Транспорт|0
+How do I get to the center?|Как добраться до центра?|Транспорт|0
+Is it far from here?|Это далеко отсюда?|Транспорт|0
+Can I walk there?|Я могу дойти пешком?|Транспорт|0
+Turn left at the corner.|Поверните налево на углу.|Транспорт|0
+Turn right at the traffic lights.|Поверните направо на светофоре.|Транспорт|0
+Go straight ahead.|Идите прямо.|Транспорт|0
+It's next to the bank.|Это рядом с банком.|Транспорт|0
+It's across the street.|Это через дорогу.|Транспорт|0
+I'm lost.|Я заблудился.|Транспорт|0
+Can you show me on the map?|Покажете на карте?|Транспорт|0
+How much is a ticket?|Сколько стоит билет?|Транспорт|0
+One ticket, please.|Один билет, пожалуйста.|Транспорт|0
+Which platform?|Какая платформа?|Транспорт|0
+Does this bus go to the airport?|Этот автобус идёт в аэропорт?|Транспорт|0
+When is the next train?|Когда следующий поезд?|Транспорт|0
+How long does it take?|Сколько это займёт времени?|Транспорт|0
+I missed my stop.|Я проехал свою остановку.|Транспорт|0
+Please let me know when to get off.|Скажите, когда выходить.|Транспорт|0
+Is this seat taken?|Это место занято?|Транспорт|0
+Can I park here?|Можно здесь припарковаться?|Транспорт|0
+Where is the parking lot?|Где парковка?|Транспорт|0
+I need gas.|Мне нужен бензин.|Транспорт|0
+Fill it up, please.|Полный бак, пожалуйста.|Транспорт|0
+Have a safe trip!|Безопасной поездки!|Транспорт|0
+Could you help me?|Не могли бы вы помочь?|Просьбы|0
+I need help.|Мне нужна помощь.|Просьбы|0
+Can you do me a favor?|Можете оказать услугу?|Просьбы|0
+Could you wait a moment?|Подождите минутку?|Просьбы|0
+Could you hold this?|Подержите это?|Просьбы|0
+Can I borrow your phone?|Можно одолжить ваш телефон?|Просьбы|0
+Where can I charge my phone?|Где можно зарядить телефон?|Просьбы|0
+I lost my wallet.|Я потерял кошелёк.|Просьбы|0
+I lost my passport.|Я потерял паспорт.|Просьбы|0
+Call the police, please.|Вызовите полицию, пожалуйста.|Просьбы|0
+Call an ambulance.|Вызовите скорую.|Просьбы|0
+I need a doctor.|Мне нужен врач.|Просьбы|0
+I don't feel well.|Мне нехорошо.|Просьбы|0
+I have a headache.|У меня болит голова.|Просьбы|0
+I have a fever.|У меня температура.|Просьбы|0
+Is there a hospital nearby?|Есть больница поблизости?|Просьбы|0
+I'm looking for my friend.|Я ищу своего друга.|Просьбы|0
+Can you take a photo of us?|Сфотографируйте нас?|Просьбы|0
+No problem.|Без проблем.|Просьбы|0
+Don't worry.|Не волнуйтесь.|Просьбы|0
+It's okay.|Всё в порядке.|Просьбы|0
+I'm sorry.|Извините.|Просьбы|0
+Excuse me.|Простите (обращение).|Просьбы|0
+After you.|После вас.|Просьбы|0
+Take care!|Берегите себя!|Просьбы|0
+What's the weather like?|Какая погода?|Беседа|0
+It's a beautiful day.|Прекрасный день.|Беседа|0
+It's raining.|Идёт дождь.|Беседа|0
+It's very cold today.|Сегодня очень холодно.|Беседа|0
+Do you like it here?|Вам здесь нравится?|Беседа|0
+I love this city.|Я люблю этот город.|Беседа|0
+This place is amazing.|Это место потрясающее.|Беседа|0
+What do you recommend to visit?|Что посоветуете посмотреть?|Беседа|0
+How long are you staying?|Как долго вы здесь пробудете?|Беседа|0
+I'm here for a few days.|Я здесь на несколько дней.|Беседа|0
+Have you been here before?|Вы здесь раньше бывали?|Беседа|0
+This is my first time.|Это мой первый раз.|Беседа|0
+What music do you like?|Какую музыку вы любите?|Беседа|0
+Do you like sports?|Вы любите спорт?|Беседа|0
+What's your hobby?|Какое у вас хобби?|Беседа|0
+I like reading books.|Я люблю читать книги.|Беседа|0
+I enjoy traveling.|Я люблю путешествовать.|Беседа|0
+That sounds great!|Звучит отлично!|Беседа|0
+Really? That's interesting.|Правда? Интересно.|Беседа|0
+I agree with you.|Я согласен с вами.|Беседа|0
+I don't think so.|Я так не думаю.|Беседа|0
+Maybe.|Может быть.|Беседа|0
+Of course.|Конечно.|Беседа|0
+Absolutely.|Абсолютно верно.|Беседа|0
+Let's keep in touch.|Давайте поддерживать связь.|Беседа|0
+What time is it?|Который час?|Время|0
+It's half past three.|Половина четвёртого.|Время|0
+It's a quarter to five.|Без пятнадцати пять.|Время|0
+See you at six.|Увидимся в шесть.|Время|0
+What day is it today?|Какой сегодня день?|Время|0
+Today is Monday.|Сегодня понедельник.|Время|0
+Tomorrow morning.|Завтра утром.|Время|0
+Yesterday evening.|Вчера вечером.|Время|0
+Next week.|На следующей неделе.|Время|0
+Last month.|В прошлом месяце.|Время|0
+In two hours.|Через два часа.|Время|0
+Right now.|Прямо сейчас.|Время|0
+Later.|Позже.|Время|0
+Soon.|Скоро.|Время|0
+I'm late.|Я опаздываю.|Время|0
+I'm on time.|Я вовремя.|Время|0
+How many?|Сколько (количество)?|Время|0
+A little bit.|Немного.|Время|0
+A lot.|Много.|Время|0
+Just a moment.|Минутку.|Время|0
+I'm happy.|Я счастлив.|Чувства|0
+I'm tired.|Я устал.|Чувства|0
+I'm hungry.|Я голоден.|Чувства|0
+I'm thirsty.|Я хочу пить.|Чувства|0
+I'm cold.|Мне холодно.|Чувства|0
+I'm hot.|Мне жарко.|Чувства|0
+I'm worried.|Я волнуюсь.|Чувства|0
+I'm excited.|Я в восторге.|Чувства|0
+I'm bored.|Мне скучно.|Чувства|0
+I'm angry.|Я злой.|Чувства|0
+I'm scared.|Мне страшно.|Чувства|0
+I'm surprised.|Я удивлён.|Чувства|0
+That's funny.|Это смешно.|Чувства|0
+That's sad.|Это грустно.|Чувства|0
+That's crazy!|Это безумие!|Чувства|0
+Calm down.|Успокойся.|Чувства|0
+Cheer up!|Не унывай!|Чувства|0
+Good luck!|Удачи!|Чувства|0
+Congratulations!|Поздравляю!|Чувства|0
+Well done!|Молодец!|Чувства|0
+That's a pity.|Как жаль.|Чувства|0
+Never mind.|Неважно.|Чувства|0
+It doesn't matter.|Это не имеет значения.|Чувства|0
+I don't care.|Мне всё равно.|Чувства|0
+It's up to you.|Решай ты.|Чувства|0
+There is a problem.|Есть проблема.|Проблемы|0
+Something is wrong.|Что-то не так.|Проблемы|0
+This doesn't work.|Это не работает.|Проблемы|0
+It's broken.|Это сломано.|Проблемы|0
+I need a refund.|Мне нужен возврат денег.|Проблемы|0
+I want to complain.|Я хочу пожаловаться.|Проблемы|0
+This is unacceptable.|Это неприемлемо.|Проблемы|0
+I've been waiting for an hour.|Я жду уже час.|Проблемы|0
+You charged me twice.|Вы списали дважды.|Проблемы|0
+That's not what I asked for.|Это не то, что я просил.|Проблемы|0
+Can I speak to the manager?|Можно поговорить с менеджером?|Проблемы|0
+I'm not satisfied.|Я не удовлетворён.|Проблемы|0
+Please fix this.|Пожалуйста, исправьте это.|Проблемы|0
+I'd like a different room.|Я хотел бы другой номер.|Проблемы|0
+The Wi-Fi isn't working.|Wi-Fi не работает.|Проблемы|0
+The water is cold.|Вода холодная.|Проблемы|0
+The room is dirty.|Номер грязный.|Проблемы|0
+I lost my key.|Я потерял ключ.|Проблемы|0
+Someone stole my bag.|Кто-то украл мою сумку.|Проблемы|0
+I need to report a theft.|Мне нужно заявить о краже.|Проблемы|0
+Where is the police station?|Где полицейский участок?|Проблемы|0
+I need a copy of the report.|Мне нужна копия протокола.|Проблемы|0
+Can you help me, please?|Помогите мне, пожалуйста.|Проблемы|0
+It's an emergency.|Это чрезвычайная ситуация.|Проблемы|0
+Hurry up, please!|Поторопитесь, пожалуйста!|Проблемы|0
+Have a good trip!|Хорошей поездки!|Финальные|0
+Enjoy your meal!|Приятного аппетита!|Финальные|0
+Get well soon!|Выздоравливайте!|Финальные|0
+Happy birthday!|С днём рождения!|Финальные|0
+Merry Christmas!|С Рождеством!|Финальные|0
+Happy New Year!|С Новым годом!|Финальные|0
+Best wishes!|Всего наилучшего!|Финальные|0
+See you later.|До скорого.|Финальные|0
+See you tomorrow.|До завтра.|Финальные|0
+Goodbye!|До свидания!|Финальные|0
+Bye for now.|Пока.|Финальные|0
+Good night.|Спокойной ночи.|Финальные|0
+Sweet dreams.|Сладких снов.|Финальные|0
+Take it easy.|Не напрягайся.|Финальные|0
+Have fun!|Веселись!|Финальные|0
+Good job!|Хорошая работа!|Финальные|0
+I'm proud of you.|Я горжусь тобой.|Финальные|0
+I miss you.|Я скучаю по тебе.|Финальные|0
+I love you.|Я люблю тебя.|Финальные|0
+You're welcome.|Пожалуйста (в ответ на спасибо).|Финальные|0
+It was my pleasure.|Это было моё удовольствие.|Финальные|0
+No worries.|Не переживай.|Финальные|0
+Anytime.|В любое время.|Финальные|0
+Sure thing.|Конечно.|Финальные|0
+My bad.|Моя вина.|Финальные|0
+That's right.|Верно.|Финальные|0
+Exactly!|Именно!|Финальные|0
+I see.|Понятно.|Финальные|0
+Got it.|Понял.|Финальные|0
+Sounds good.|Звучит хорошо.|Финальные|0
+Let me think.|Дай подумать.|Финальные|0
+I'll check.|Я проверю.|Финальные|0
+I'll let you know.|Я дам знать.|Финальные|0
+Keep me posted.|Держи в курсе.|Финальные|0
+Call me later.|Позвони позже.|Финальные|0
+Text me.|Напиши мне.|Финальные|0
+Send me a message.|Отправь мне сообщение.|Финальные|0
+Where were we?|На чём мы остановились?|Финальные|0
+What were you saying?|Что ты говорил?|Финальные|0
+Come again?|Повтори?|Финальные|0
+Say that again.|Скажи ещё раз.|Финальные|0
+I didn't catch that.|Я не расслышал.|Финальные|0
+Speak up, please.|Говорите громче, пожалуйста.|Финальные|0
+Slow down, please.|Помедленнее, пожалуйста.|Финальные|0
